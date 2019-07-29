@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://fazi1058.github.io/about/</loc>
     <lastmod>2019-07-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/intro/</loc>
+    <loc>https://fazi1058.github.io/posts/intro/</loc>
     <lastmod>2019-07-29T03:01:20+04:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://fazi1058.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://fazi1058.github.io/</loc>
     <lastmod>2019-07-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://fazi1058.github.io/posts/</loc>
     <lastmod>2019-07-29T03:01:20+04:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://fazi1058.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
