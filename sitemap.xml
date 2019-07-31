@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://fazi1058.github.io/posts/comment/</loc>
+    <lastmod>2019-08-01T01:55:57+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fazi1058.github.io/posts/host/</loc>
+    <lastmod>2019-08-01T01:05:17+04:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fazi1058.github.io/about/</loc>
     <lastmod>2019-07-29T00:00:00+00:00</lastmod>
   </url>
@@ -18,19 +28,104 @@
   </url>
   
   <url>
-    <loc>https://fazi1058.github.io/</loc>
-    <lastmod>2019-07-29T00:00:00+00:00</lastmod>
+    <loc>https://fazi1058.github.io/tags/comment/</loc>
+    <lastmod>2019-08-01T01:55:57+04:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://fazi1058.github.io/posts/</loc>
+    <loc>https://fazi1058.github.io/tags/commento.io/</loc>
+    <lastmod>2019-08-01T01:55:57+04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fazi1058.github.io/categories/educational/</loc>
+    <lastmod>2019-08-01T01:55:57+04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fazi1058.github.io/tags/github_host/</loc>
+    <lastmod>2019-08-01T01:05:17+04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fazi1058.github.io/</loc>
+    <lastmod>2019-08-01T01:55:57+04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fazi1058.github.io/tags/host/</loc>
+    <lastmod>2019-08-01T01:05:17+04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fazi1058.github.io/tags/hugo/</loc>
+    <lastmod>2019-08-01T01:55:57+04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fazi1058.github.io/tags/hugo_theme/</loc>
     <lastmod>2019-07-29T03:01:20+04:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://fazi1058.github.io/tags/markdown/</loc>
+    <lastmod>2019-08-01T01:55:57+04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fazi1058.github.io/posts/</loc>
+    <lastmod>2019-08-01T01:55:57+04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fazi1058.github.io/tags/static_site_generator/</loc>
+    <lastmod>2019-08-01T01:55:57+04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://fazi1058.github.io/tags/</loc>
+    <lastmod>2019-08-01T01:55:57+04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fazi1058.github.io/tags/%D9%85%D8%A7%D8%B1%DA%A9-%D8%AF%D8%A7%D9%88%D9%86/</loc>
+    <lastmod>2019-08-01T01:55:57+04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fazi1058.github.io/tags/%D9%87%D8%A7%D8%B3%D8%AA/</loc>
+    <lastmod>2019-08-01T01:05:17+04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fazi1058.github.io/tags/%D9%87%D8%A7%D8%B3%D8%AA-%DA%AF%DB%8C%D8%AA-%D9%87%D8%A7%D8%A8/</loc>
+    <lastmod>2019-08-01T01:05:17+04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fazi1058.github.io/tags/%D9%87%D9%88%DA%AF%D9%88/</loc>
+    <lastmod>2019-08-01T01:55:57+04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fazi1058.github.io/tags/%D9%87%DB%8C%D9%88%DA%AF%D9%88/</loc>
+    <lastmod>2019-07-29T03:01:20+04:30</lastmod>
     <priority>0</priority>
   </url>
   

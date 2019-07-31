@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Commento.io on Hello World!</title>
+    <link>https://fazi1058.github.io/tags/commento.io/</link>
+    <description>Recent content in Commento.io on Hello World!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Aug 2019 01:55:57 +0430</lastBuildDate>
+    
+	<atom:link href="https://fazi1058.github.io/tags/commento.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to add comment section in hugo site?</title>
+      <link>https://fazi1058.github.io/posts/comment/</link>
+      <pubDate>Thu, 01 Aug 2019 01:55:57 +0430</pubDate>
+      
+      <guid>https://fazi1058.github.io/posts/comment/</guid>
+      <description>Hello world! in this post, I wanna tell you how you can add comment section to your hugo site. for adding comment section ,there is one thing you have to do and the thing is enter to this site.</description>
+    </item>
+    
+  </channel>
+</rss>

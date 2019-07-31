@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>هاست گیت هاب on Hello World!</title>
+    <link>https://fazi1058.github.io/tags/%D9%87%D8%A7%D8%B3%D8%AA-%DA%AF%DB%8C%D8%AA-%D9%87%D8%A7%D8%A8/</link>
+    <description>Recent content in هاست گیت هاب on Hello World!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Aug 2019 01:05:17 +0430</lastBuildDate>
+    
+	<atom:link href="https://fazi1058.github.io/tags/%D9%87%D8%A7%D8%B3%D8%AA-%DA%AF%DB%8C%D8%AA-%D9%87%D8%A7%D8%A8/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How use github as host of your website ?</title>
+      <link>https://fazi1058.github.io/posts/host/</link>
+      <pubDate>Thu, 01 Aug 2019 01:05:17 +0430</pubDate>
+      
+      <guid>https://fazi1058.github.io/posts/host/</guid>
+      <description>Hello World! In this post , I explain how use github as host of your website. if you use hugo as static site generator only thing is need to do is following step: 1.run  hugo  2.creat github repo as following format :  your_github_user_name.github.io  3.copy public directory of your hugo site in  your_github_user_name.github.io  4.now your site is ready. address of your site is :  your_github_user_name.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -10,5 +10,14 @@
 	<atom:link href="https://fazi1058.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Educational</title>
+      <link>https://fazi1058.github.io/categories/educational/</link>
+      <pubDate>Thu, 01 Aug 2019 01:55:57 +0430</pubDate>
+      
+      <guid>https://fazi1058.github.io/categories/educational/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

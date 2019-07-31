@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo_theme on Hello World!</title>
+    <link>https://fazi1058.github.io/tags/hugo_theme/</link>
+    <description>Recent content in Hugo_theme on Hello World!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Jul 2019 03:01:20 +0430</lastBuildDate>
+    
+	<atom:link href="https://fazi1058.github.io/tags/hugo_theme/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to build Website like this?</title>
+      <link>https://fazi1058.github.io/posts/intro/</link>
+      <pubDate>Mon, 29 Jul 2019 03:01:20 +0430</pubDate>
+      
+      <guid>https://fazi1058.github.io/posts/intro/</guid>
+      <description>Hello World! for building this site I used hugo and markdown. github used as my host for my website.
+What is markdown? Markdown is a lightweight markup language with plain text formatting syntax.Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor. markdown is easy to use and for syntax you can use this website</description>
+    </item>
+    
+  </channel>
+</rss>

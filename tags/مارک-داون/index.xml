@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Hello World!</title>
-    <link>https://fazi1058.github.io/posts/</link>
-    <description>Recent content in Posts on Hello World!</description>
+    <title>مارک داون on Hello World!</title>
+    <link>https://fazi1058.github.io/tags/%D9%85%D8%A7%D8%B1%DA%A9-%D8%AF%D8%A7%D9%88%D9%86/</link>
+    <description>Recent content in مارک داون on Hello World!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Aug 2019 01:55:57 +0430</lastBuildDate>
     
-	<atom:link href="https://fazi1058.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fazi1058.github.io/tags/%D9%85%D8%A7%D8%B1%DA%A9-%D8%AF%D8%A7%D9%88%D9%86/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://fazi1058.github.io/posts/comment/</guid>
       <description>Hello world! in this post, I wanna tell you how you can add comment section to your hugo site. for adding comment section ,there is one thing you have to do and the thing is enter to this site.</description>
-    </item>
-    
-    <item>
-      <title>How use github as host of your website ?</title>
-      <link>https://fazi1058.github.io/posts/host/</link>
-      <pubDate>Thu, 01 Aug 2019 01:05:17 +0430</pubDate>
-      
-      <guid>https://fazi1058.github.io/posts/host/</guid>
-      <description>Hello World! In this post , I explain how use github as host of your website. if you use hugo as static site generator only thing is need to do is following step: 1.run  hugo  2.creat github repo as following format :  your_github_user_name.github.io  3.copy public directory of your hugo site in  your_github_user_name.github.io  4.now your site is ready. address of your site is :  your_github_user_name.</description>
     </item>
     
     <item>
